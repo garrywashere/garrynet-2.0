@@ -10,7 +10,7 @@ pagination.pagerSize = 5
 
   [params]
   contentTypeName = "posts"
-  showMenuItems = 4
+  showMenuItems = 5
   showLanguageSelector = false
   fullWidthTheme = false
   centerTheme = true
@@ -55,11 +55,16 @@ pagination.pagerSize = 5
           url = "/contact"
 
         [[languages.en.menu.main]]
-          identifier = "resume"
-          name = "resume"
-          url = "/resume"
+          identifier = "gallery"
+          name = "gallery"
+          url = "https://gallery.garrynet.co.uk"
 
         [[languages.en.menu.main]]
           identifier = "projects"
           name = "projects"
           url = "/projects"
+
+        [[languages.en.menu.main]]
+          identifier = "resume"
+          name = "resume"
+          url = "/resume"
