@@ -7,11 +7,11 @@ title = ''
 
 If you’d like to explore further:
 
--   Scroll down for my **blog**
+-   Scroll down for my [blog](#posts)
 -   Visit the [about](/about) page to learn more about me and this site
 -   Head over to my [gallery](https://gallery.garrynet.co.uk) to see my photography work
--   Browse the [projects](/projects) page to see what I’ve been working on
 -   Check out my [resume](/resume) if you’re interested in my academic and professional background
+<!-- -   Browse the [projects](/projects) page to see what I’ve been working on -->
 
 For any enquiries, please head over to the [contact](/contact) page.
 
