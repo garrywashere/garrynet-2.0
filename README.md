@@ -1,5 +1,8 @@
 # garrynet 2.0
 
+![](https://img.shields.io/github/repo-size/garrywashere/garrynet-2.0)
+![](https://uptime.garry.cloud/api/badge/8/status)
+
 ![always evolving.](./static/img/always-evolving.png)
 
 ## Description
