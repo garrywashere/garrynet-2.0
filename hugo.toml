@@ -5,6 +5,9 @@ title = 'garrynet 2.0'
 theme = 'terminal'
 pagination.pagerSize = 5
 
+[markup.goldmark.renderer]
+unsafe = true
+
 [markup.highlight]
   noClasses = false
 
@@ -31,7 +34,7 @@ pagination.pagerSize = 5
       # copyright = ""
       menuMore = "more"
       readMore = "read post"
-      readOtherPosts = "read other posts"
+      readOtherPosts = "other posts"
       newerPosts = "newer posts"
       olderPosts = "older posts"
       missingContentMessage = "page not found..."
