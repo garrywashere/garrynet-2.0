@@ -34,8 +34,6 @@ toc = true
       `-| '
 ```
 
-# I Just Wanted To Say
-
 ---
 
 ## Introduction

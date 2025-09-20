@@ -16,7 +16,9 @@ readingTime = true
    `
 ```
 
-# Hello, World!
+---
+
+## Hello, World!
 
 It's finally done, finally ready. This project has been baking for months. I’d been putting off reprovisioning my server for so long, leaving my old blog unmaintained because the setup was just too bulky and unoptimised. Well, now it’s perfect: reliable, blazing-fast, just perfect.
 
