@@ -1,7 +1,8 @@
 +++
 title = "It's Been a Busy Day"
-date = "2025-09-19T04:15:19+01:00"
+date = "2025-09-19T04:15:00+01:00"
 author = "Garry"
+tags = ["blog"]
 description = "A long day, too much coffee, a rebuilt gallery, and the looming return to university. From server tweaks to pre-uni jitters, here’s me rambling about tech, and trepidation."
 readingTime = true
 toc = true
@@ -44,7 +45,7 @@ After about four coffees and an entire day at the computer, I'm finally done wit
 
 ---
 
-## A Bit About the Gallery
+## Chapter 1: A Bit About the Gallery
 
 The gallery was a bit of a pain, mainly because the way it worked originally was that whenever the container started up, the entire repository would be rebuilt and compiled from scratch (which in my case, with ~600 photos, takes 1.5 hours each time). On top of that, the website was being served using a development server—a big no-no for security, stability, and performance.
 
@@ -60,7 +61,7 @@ When nginx detects that the gallery isn’t yet fully compiled, it sends HTTP co
 
 ---
 
-## What’s Left / Going Back to University
+## Chapter 2: What’s Left / Going Back to University
 
 Now that my most procrastinated job—actually sorting out my own stuff before other people’s—is complete, all I can really do is sit around and prepare to go back to university.
 
@@ -74,7 +75,7 @@ Other than that, I’ve filled out the necessary documents and finished inductio
 
 ---
 
-## Anticipation or Trepidation?
+## Chapter 3: Anticipation or Trepidation?
 
 > trepidation (noun)
 >

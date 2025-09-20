@@ -1,7 +1,8 @@
 +++
 title = "Turning Over a New Leaf"
-date = "2025-09-18T05:24:32+01:00"
+date = "2025-09-18T05:24:00+01:00"
 author = "Garry"
+tags = ["blog"]
 description = "My first post on the brand-new blog, how exciting..."
 readingTime = true
 +++
