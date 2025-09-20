@@ -53,6 +53,11 @@ unsafe = true
           url = "/about"
 
         [[languages.en.menu.main]]
+          identifier = "blog"
+          name = "blog"
+          url = "/tags/blog"
+
+        [[languages.en.menu.main]]
           identifier = "contact"
           name = "contact"
           url = "/contact"
