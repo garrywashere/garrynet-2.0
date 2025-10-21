@@ -44,7 +44,21 @@ Which is ironic when you consider the fact our Prime Minister, Sir Keir Starmer,
 
 I'll leave you with this clip:
 
-<iframe src="https://www.youtube.com/embed/0r7GRx8Sl-s"></iframe>
+<iframe width=100% src="https://www.youtube.com/embed/0r7GRx8Sl-s"></iframe>
+
+### Transcript
+
+**Kisin**: In Russia last year, _400_ people were arrested for things they said on social media. How many people do you think were arrested in Britain for things they said on social media last year?
+
+**Anderson**: Go on.
+
+**Kisin**: Take a guess.
+
+**Anderson**: I have no idea.
+
+**Kisin**: _3,300_
+
+**Anderson**: Really? Arrested for what they'd said on social media? What sort of things get you arrested?
 
 Make of that what you will.
 
