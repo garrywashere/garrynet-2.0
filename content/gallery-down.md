@@ -3,7 +3,7 @@ draft = false
 title = 'garrynet://gallery-down'
 +++
 
-# The Gallery is Warming Up
+## The Gallery is Warming Up
 
 Hey there, you’ve landed here because my **photo gallery is either still building** or is currently **down for maintenance**.
 
@@ -13,7 +13,7 @@ If you’d like to check the current status, visit the [status](https://uptime.g
 
 ---
 
-## What Can You Do?
+### What Can You Do?
 
 Give it a little time, then try again later.
 
@@ -24,8 +24,6 @@ In the meantime, you can either retry the gallery now or explore the rest of my 
 
 ---
 
-## One More Thing
+### One More Thing
 
 Sorry for the interruption, and thanks for your patience.
-
--Garry

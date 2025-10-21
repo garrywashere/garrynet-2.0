@@ -3,7 +3,7 @@ draft = false
 title = ''
 +++
 
-**Welcome to garrynet 2.0**—my personal blog, resume, and a hub for showcasing my passions and projects. I am a second-year computer science student based in the United Kingdom. Beyond my studies, I manage my own online infrastructure, self-hosting both public and private services, as well as pursuing other interests.
+**Welcome to garrynet 2.0**—my personal blog, resume, and a hub for showcasing my passions and projects. I am a second-year computer science student based in England. Beyond my studies, I manage my own online infrastructure, self-hosting both public and private services, as well as pursuing other interests.
 
 If you’d like to explore further:
 
