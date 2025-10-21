@@ -73,4 +73,4 @@ _September 2024 - October 2024_
 
 ## Contact
 
-To learn more or get in touch, please visit my [contact](/contact) page.
+To get in touch, please visit my [contact](/contact) page.

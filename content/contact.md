@@ -21,3 +21,5 @@ Unsolicited communication will not be tolerated. Any spam, harassment, or other 
 ## Email
 
 [contact@garrynet.co.uk](mailto:contact@garrynet.co.uk)
+
+I don't have any active social media, so don't bother looking for it.
