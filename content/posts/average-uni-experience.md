@@ -5,9 +5,10 @@ author = "Garry"
 tags = ["blog", "life", "politics"]
 description = "An honest account of what it’s like being a student in big 2025: financial pressure, political disillusionment, and the struggle to stay sane in uncertain times."
 readingTime = true
+toc = false
 +++
 
-![](/img/thousand-yard-stare.jpg)
+![Thousand-yard stare](/img/posts/thousand-yard-stare.jpg)
 
 ---
 
@@ -17,16 +18,16 @@ So, I'm almost a month into my second year. Don't get me wrong, it's great fun a
 
 Not only have the following skyrocketed since my last academic year:
 
--   Car Insurance
--   Diesel Prices
--   Food & Drink Costs
--   Rent
--   Subscription Service Prices
--   Tuition Fees
+- Car Insurance
+- Diesel Prices
+- Food & Drink Costs
+- Rent
+- Subscription Service Prices
+- Tuition Fees
 
 But things such as food and drink have significantly reduced in both quality and quantity. It's ridiculous, here's a quick anecdote:
 
-> My friends recently drove down to visit me, we went to Sainsbury's to grab some snacks for the road. All the things we usually get, the packaging is the exact same and indicates no change to the product. However, there's noticeably less product contained within. And alongside that–the price was up 20-30% to what we remember.
+> My friends recently drove down to visit me, we went to Sainsbury's to grab some snacks for the road. All the things we usually get, the packaging is the exact same and indicates no change to the product. However, there's noticeably less product contained within. And alongside that – the price was up 20-30% to what we remember.
 
 It's downright diabolical, trying to survive as a student in big 2025. It's bad enough you get shafted with coursework and examinations (even better for me because the majority of my modules are in the Autumn term, meaning I have to cram two thirds of my year into the first three months), but you also have to constantly worry about money.
 
@@ -40,11 +41,11 @@ It seems Essex Police is far too busy investigating, arresting and jailing peopl
 
 At the time of writing, the UK's own Human Rights Act 1998 (Article 10) states that to hold opinions and to receive and impart information and ideas without government interference is a human right<sup>[1]</sup>.
 
-Which is ironic when you consider the fact our Prime Minister, Sir Keir Starmer, used to be a human rights lawyer<sup>[2]</sup>–yet under him you see countless reports of Police resources being diverted to arresting innocent civilians expressing unfavourable opinions on social media.
+Which is ironic when you consider the fact our Prime Minister, Sir Keir Starmer, used to be a human rights lawyer<sup>[2]</sup> – yet under him you see countless reports of Police resources being diverted to arresting innocent civilians expressing unfavourable opinions on social media.
 
 I'll leave you with this clip:
 
-<iframe width=100% src="https://www.youtube.com/embed/0r7GRx8Sl-s"></iframe>
+<iframe width=100% height=500em src="https://www.youtube.com/embed/0r7GRx8Sl-s"></iframe>
 
 ### Transcript
 
@@ -64,7 +65,7 @@ Make of that what you will.
 
 ## Last Note
 
-Ever since coming back I've been pulling my hair out, trying to stay on top of things and maintaining a clear mind is difficult when the world around you is falling apart. It feels as though every week there's some kind of horrific [political violence](https://en.wikipedia.org/wiki/Assassination_of_Charlie_Kirk) that results in bloodshed, a new [terror attack](https://en.wikipedia.org/wiki/Manchester_synagogue_attack), an _alledged_ [coverup scandal](https://www.gbnews.com/politics/grooming-gangs-london-sadiq-khan-london) that shows the people running our country are scum of the earth, or so-called [“peaceful” protests](https://www.thejc.com/news/uk/defend-our-juries-palestine-action-refuse-police-delay-ep9pkygl) that disregard public appeals for restraint, go ahead in the wake of national tragedies, and feature [disturbing displays of antisemitic rhetoric on the streets](https://antisemitism.org.uk/wp-content/uploads/2023/02/6648-Anitsemitism-Trust-Chants-Report-v4.pdf).
+Ever since coming back I've been pulling my hair out, trying to stay on top of things and maintaining a clear mind is difficult when the world around you is falling apart. It feels as though every week there's some kind of horrific [political violence](https://en.wikipedia.org/wiki/Assassination_of_Charlie_Kirk) that results in bloodshed, a new [terror attack](https://en.wikipedia.org/wiki/Manchester_synagogue_attack), an _alleged_ [cover-up scandal](https://www.gbnews.com/politics/grooming-gangs-london-sadiq-khan-london) that shows the people running our country are scum of the earth, or so-called [“peaceful” protests](https://www.thejc.com/news/uk/defend-our-juries-palestine-action-refuse-police-delay-ep9pkygl) that disregard public appeals for restraint, go ahead in the wake of national tragedies, and feature [disturbing displays of antisemitic rhetoric on the streets](https://antisemitism.org.uk/wp-content/uploads/2023/02/6648-Anitsemitism-Trust-Chants-Report-v4.pdf).
 
 I just want to survive.
 
@@ -74,4 +75,4 @@ I just want to survive.
 
 [1] “Human Rights Act 1998,” Legislation.gov.uk, 2025. <https://www.legislation.gov.uk/ukpga/1998/42/schedule/1/part/I/chapter/9/2000-10-02> (accessed Oct. 21, 2025).
 
-[2] J. Stovall, “Keir Starmer | Biography, Parents, Legal Career, & Wife | Britannica,” www.britannica.com, Nov. 28, 2023. https://www.britannica.com/biography/Keir-Starmer
+[2] J. Stovall, “Keir Starmer | Biography, Parents, Legal Career, & Wife | Britannica,” <www.britannica.com>, Nov. 28, 2023. <https://www.britannica.com/biography/Keir-Starmer>
